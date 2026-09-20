@@ -1,4 +1,4 @@
-# E-Commerce Order Builder — Source Code
+# Original Source Code: E-Commerce Order Builder Without Design Patterns
 
 This is the **starting implementation** for the e-commerce order system.
 
